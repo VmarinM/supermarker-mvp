@@ -1,3 +1,4 @@
+
 namespace Supermarket_mvp
 {
     public partial class Form1 : Form
@@ -5,6 +6,11 @@ namespace Supermarket_mvp
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
         }
     }
 }

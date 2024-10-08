@@ -12,8 +12,9 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\vimam\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\vimam\\.nuget\\packages"
+      "C:\\Users\\sopcentronet\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sopcentronet\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vimam\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj": {}
+    "C:\\Users\\sopcentronet\\Desktop\\supermarker-mvp-b962aad5b0bacdeed229e9b5f0b72d5617262ee5 - copia\\Supermarket-mvp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vimam\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj": {
+    "C:\\Users\\sopcentronet\\Desktop\\supermarker-mvp-b962aad5b0bacdeed229e9b5f0b72d5617262ee5 - copia\\Supermarket-mvp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vimam\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
+        "projectUniqueName": "C:\\Users\\sopcentronet\\Desktop\\supermarker-mvp-b962aad5b0bacdeed229e9b5f0b72d5617262ee5 - copia\\Supermarket-mvp.csproj",
         "projectName": "Supermarket-mvp",
-        "projectPath": "C:\\Users\\vimam\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
-        "packagesPath": "C:\\Users\\vimam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vimam\\source\\repos\\Supermarket-mvp\\obj\\",
+        "projectPath": "C:\\Users\\sopcentronet\\Desktop\\supermarker-mvp-b962aad5b0bacdeed229e9b5f0b72d5617262ee5 - copia\\Supermarket-mvp.csproj",
+        "packagesPath": "C:\\Users\\sopcentronet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sopcentronet\\Desktop\\supermarker-mvp-b962aad5b0bacdeed229e9b5f0b72d5617262ee5 - copia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vimam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sopcentronet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
